@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-09T12:36:37 IST" name="Default suite" finished-at="2023-09-09T12:40:33 IST" duration-ms="236530">
+    <groups>
+    </groups>
+    <test started-at="2023-09-09T12:36:37 IST" name="Default test" finished-at="2023-09-09T12:40:33 IST" duration-ms="236530">
+      <class name="com.shoecarnival.testcases.shoe_carnival">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:36:36 IST" name="beforeSuite" finished-at="2023-09-09T12:36:37 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:36:37 IST" name="beforeTest" finished-at="2023-09-09T12:36:55 IST" duration-ms="18190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:36:55 IST" name="beforeClass" finished-at="2023-09-09T12:36:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:36:56 IST" name="beforeMethod" finished-at="2023-09-09T12:36:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="shoecarnival(java.lang.String,java.lang.String)[pri:1, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:36:56 IST" name="shoecarnival" data-provider="dp" finished-at="2023-09-09T12:38:16 IST" duration-ms="79676" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdef1234567@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef1234567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoecarnival -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:38:16 IST" name="afterMethod" finished-at="2023-09-09T12:38:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="shoecarnival(java.lang.String,java.lang.String)[pri:1, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:38:16 IST" name="shoecarnival" data-provider="dp" finished-at="2023-09-09T12:39:35 IST" duration-ms="79261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdef123456@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoecarnival -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:38:16 IST" name="beforeMethod" finished-at="2023-09-09T12:38:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:39:35 IST" name="afterMethod" finished-at="2023-09-09T12:39:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:39:35 IST" name="beforeMethod" finished-at="2023-09-09T12:39:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PagenoNavigationChecker()[pri:2, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:39:35 IST" name="PagenoNavigationChecker" finished-at="2023-09-09T12:39:45 IST" duration-ms="10190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PagenoNavigationChecker -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:39:45 IST" name="afterMethod" finished-at="2023-09-09T12:39:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:39:45 IST" name="beforeMethod" finished-at="2023-09-09T12:39:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ProductRatingChecker()[pri:3, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:39:45 IST" name="ProductRatingChecker" finished-at="2023-09-09T12:40:32 IST" duration-ms="46685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductRatingChecker -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:40:32 IST" name="afterMethod" finished-at="2023-09-09T12:40:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:40:32 IST" name="afterClass" finished-at="2023-09-09T12:40:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:40:32 IST" name="afterTest" finished-at="2023-09-09T12:40:33 IST" duration-ms="1408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.shoecarnival.testcases.shoe_carnival@65f8f5ae]" started-at="2023-09-09T12:40:33 IST" name="afterSuite" finished-at="2023-09-09T12:40:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.shoecarnival.testcases.shoe_carnival -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
